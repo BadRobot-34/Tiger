@@ -1,0 +1,78 @@
+{
+  "categorias": [
+    {
+      "name": "📡TDT España",
+      "imagen": "https://i.imgur.com/tdt-category.png",
+      "samples": [
+        {
+          "name": "La 1",
+          "logo": "https://i.imgur.com/la1-logo.png",
+          "uri": "https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-r1/__c/La1_HD/__op/dash-wv/__f/manifest.mpd",
+          "kid": "D4ddFD5FTCAtog1ZsmBTKQ",
+          "key": "MqwWzb3XV17UnvyuaWMqDQ",
+          "drm_scheme": "clearkey",
+          "extension": "mpd"
+        },
+        {
+          "name": "La 1 (-2h)",
+          "logo": "https://i.imgur.com/la1-2h-logo.png",
+          "uri": "https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-v1/__c/La1_HD/__op/delay-dash-wv/__f/manifest.mpd",
+          "kid": "D4ddFD5FTCAtog1ZsmBTKQ",
+          "key": "MqwWzb3XV17UnvyuaWMqDQ",
+          "drm_scheme": "clearkey",
+          "extension": "mpd"
+        }
+      ]
+    },
+
+    {
+      "name": "⚽ Deportes",
+      "imagen": "https://i.imgur.com/sports-category.png",
+      "samples": [
+        {
+          "name": "Gol TV",
+          "logo": "https://i.imgur.com/goltv-logo.png",
+          "uri": "https://example.com/goltv/stream.mpd",
+          "kid": "",
+          "key": "",
+          "drm_scheme": "clearkey",
+          "extension": "mpd"
+        },
+        {
+          "name": "Teledeporte",
+          "logo": "https://i.imgur.com/teledeporte-logo.png",
+          "uri": "https://example.com/teledeporte/stream.mpd",
+          "kid": "",
+          "key": "",
+          "drm_scheme": "clearkey",
+          "extension": "mpd"
+        }
+      ]
+    },
+
+    {
+      "name": "🎬 Cine & Series",
+      "imagen": "https://i.imgur.com/cine-category.png",
+      "samples": [
+        {
+          "name": "Cine Acción",
+          "logo": "https://i.imgur.com/cineaccion-logo.png",
+          "uri": "https://example.com/cineaccion/stream.mpd",
+          "kid": "",
+          "key": "",
+          "drm_scheme": "clearkey",
+          "extension": "mpd"
+        },
+        {
+          "name": "Series Plus",
+          "logo": "https://i.imgur.com/seriesplus-logo.png",
+          "uri": "https://example.com/seriesplus/stream.mpd",
+          "kid": "",
+          "key": "",
+          "drm_scheme": "clearkey",
+          "extension": "mpd"
+        }
+      ]
+    }
+  ]
+}
