@@ -64,11 +64,11 @@
           "extension": "mpd"
         },
         {
-          "name": "Series Pluss",
+          "name": "Series Plus",
           "logo": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png",
-          "uri": "https://example.com/seriesplus/stream.mpd",
-          "kid": "",
-          "key": "",
+          "uri": "https://storage.googleapis.com/shaka-demo-assets/angel-one/dash.mpd",
+          "kid": "1ae8ccd0e0e84d2b8e0f1a0f1f1f1f1f",
+          "key": "1ae8ccd0e0e84d2b8e0f1a0f1f1f1f1f",
           "drm_scheme": "clearkey",
           "extension": "mpd"
         }
