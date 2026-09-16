@@ -1,3 +1,7 @@
+     "uri": "https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-r1/__c/La1_HD/__op/dash-wv/__f/manifest.mpd",
+        "kid": "D4ddFD5FTCAtog1ZsmBTKQ",
+        "key": "MqwWzb3XV17UnvyuaWMqDQ",
+
 {
   "categorias": [
     {
@@ -6,7 +10,7 @@
       "samples": [
         {
           "name": "La 1",
-          "logo": "https://i.imgur.com/la1-logo.png",
+          "logo": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png",
           "uri": "https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-r1/__c/La1_HD/__op/dash-wv/__f/manifest.mpd",
           "kid": "D4ddFD5FTCAtog1ZsmBTKQ",
           "key": "MqwWzb3XV17UnvyuaWMqDQ",
@@ -15,7 +19,7 @@
         },
         {
           "name": "La 1 (-2h)",
-          "logo": "https://i.imgur.com/la1-2h-logo.png",
+          "logo": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png",
           "uri": "https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-v1/__c/La1_HD/__op/delay-dash-wv/__f/manifest.mpd",
           "kid": "D4ddFD5FTCAtog1ZsmBTKQ",
           "key": "MqwWzb3XV17UnvyuaWMqDQ",
@@ -31,7 +35,7 @@
       "samples": [
         {
           "name": "Gol TV",
-          "logo": "https://i.imgur.com/goltv-logo.png",
+          "logo": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png",
           "uri": "https://example.com/goltv/stream.mpd",
           "kid": "",
           "key": "",
@@ -40,7 +44,7 @@
         },
         {
           "name": "Teledeporte",
-          "logo": "https://i.imgur.com/teledeporte-logo.png",
+          "logo": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png",
           "uri": "https://example.com/teledeporte/stream.mpd",
           "kid": "",
           "key": "",
@@ -56,7 +60,7 @@
       "samples": [
         {
           "name": "Cine Acción",
-          "logo": "https://i.imgur.com/cineaccion-logo.png",
+          "logo": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png",
           "uri": "https://example.com/cineaccion/stream.mpd",
           "kid": "",
           "key": "",
@@ -65,7 +69,7 @@
         },
         {
           "name": "Series Plus",
-          "logo": "https://i.imgur.com/seriesplus-logo.png",
+          "logo": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png",
           "uri": "https://example.com/seriesplus/stream.mpd",
           "kid": "",
           "key": "",
