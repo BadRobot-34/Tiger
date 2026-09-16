@@ -5,8 +5,8 @@
       {
         "name": "24HH",
         "uri": "https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8",
-        "kid": "D4ddFD5FTCAtog1ZsmBTKQ",
-        "key": "MqwWzb3XV17UnvyuaWMqDQ",
+        "kid": "",
+        "key": "",
         "drm_scheme": "clearkey",
         "extension": ""
       },
