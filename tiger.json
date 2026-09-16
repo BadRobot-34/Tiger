@@ -3,7 +3,7 @@
     "name": "📺 GENERAL",
     "samples": [
       {
-        "name": "24HH",
+        "name": "24H",
         "uri": "https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8",
         "kid": "",
         "key": "",
@@ -16,7 +16,7 @@
         "key": "D4ddFD5FTCAtog1ZsmBTKQ",
         "kid": "MqwWzb3XV17UnvyuaWMqDQ",
         "drm_scheme": "clearkey",
-        "extension": ""
+        "extension": "mpd"
       },
       {
         "name": "LA 1 - OPC2",
