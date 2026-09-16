@@ -3,18 +3,18 @@
     "name": "📺 GENERAL",
     "samples": [
       {
-        "name": "24H",
+        "name": "24HH",
         "uri": "https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8",
-        "kid": "",
-        "key": "",
+        "kid": "D4ddFD5FTCAtog1ZsmBTKQ",
+        "key": "MqwWzb3XV17UnvyuaWMqDQ"",
         "drm_scheme": "clearkey",
         "extension": ""
       },
       {
         "name": "LA 1",
-        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX03/smil:1_HD.smil/manifest.mpd",
-        "key": "",
-        "kid": "",
+        "uri": "https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-r1/__c/La1_HD/__op/dash-wv/__f/manifest.mpd",
+        "key": "D4ddFD5FTCAtog1ZsmBTKQ",
+        "kid": "MqwWzb3XV17UnvyuaWMqDQ"",
         "drm_scheme": "clearkey",
         "extension": ""
       },
