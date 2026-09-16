@@ -64,7 +64,7 @@
           "extension": "mpd"
         },
         {
-          "name": "Series Plus",
+          "name": "Series Pluss",
           "logo": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png",
           "uri": "https://example.com/seriesplus/stream.mpd",
           "kid": "",
