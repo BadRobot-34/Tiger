@@ -116,7 +116,7 @@
       },
       {
         "name": "CALLE 13",
-        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:96_HD.smil/manifest.mpd",
+        "uri": "https://storage.googleapis.com/shaka-demo-assets/angel-one/dash.mpd",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
