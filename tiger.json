@@ -35,12 +35,12 @@
         "extension": "mpd"
       },
       {
-        "name": "LA 2 - OPC22",
+        "name": "LA 2 - OPC25",
         "uri": "https://badrobot-34.github.io/DAZN_LALIGA-Opc_1/",
         "kid": "",
         "key": "",
         "drm_scheme": "",
-        "extension": ""
+        "extension": "web"
       },
       {
         "name": "ANTENA 3",
